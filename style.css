@@ -1,0 +1,21 @@
+body {
+	background-color: lightblue;
+	font-family:arial;
+	text-align: center;
+	display: none;
+
+}
+
+#clock {
+	display: inline-block;
+	margin-top:150px;
+	font-size:130px;
+	color:black;
+
+}
+#message {
+	letter-spacing: 1px;
+	font-size:50px;
+	padding-top: 30px;
+	margin-bottom: 230px;
+}
